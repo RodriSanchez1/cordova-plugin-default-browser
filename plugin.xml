@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-plugin-default-browser" version="1.0.0"
+    xmlns="http://apache.org/cordova/ns/plugins/1.0"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <name>CordovaPluginDefaultBrowser</name>
+    <description>Open default device browser</description>
+    <license>MIT</license>
+    <keywords>cordova, browser, defaultBrowser, electron</keywords>
+
+    <js-module name="CordovaPluginDefaultBrowser" src="www/defaultBrowser.js">
+        <clobbers target="cordova.plugins.DefaultBrowser" />
+    </js-module>
+
+    <!-- www -->
+
+    <!-- android -->
+
+    <!-- ios -->
+
+    <!-- electron -->
+    <platform name="electron">
+        <framework src="src/electron" />
+    </platform>
+
+</plugin>

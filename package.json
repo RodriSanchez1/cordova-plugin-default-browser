@@ -1,0 +1,25 @@
+{
+    "name": "cordova-plugin-default-browser",
+    "version": "1.0.0",
+    "description": "Open default device browser",
+    "author": "Rodrigo Sanchez",
+    "license": "MIT",
+    "homepage": "https://github.com/RodriSanchez1",
+    "repository": {
+      "type": "git",
+      "url": "<Your git repository>"
+    },
+    "cordova": {
+      "id": "cordova-plugin-default-browser",
+      "platforms": [
+        "electron"
+      ]
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "cordova-electron",
+      "cordova",
+      "electron",
+      "defaultbrowser"
+    ]
+  }
