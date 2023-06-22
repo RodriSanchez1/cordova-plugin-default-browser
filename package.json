@@ -7,7 +7,7 @@
     "homepage": "https://github.com/RodriSanchez1",
     "repository": {
       "type": "git",
-      "url": "<Your git repository>"
+      "url": "https://github.com/RodriSanchez1/cordova-plugin-default-browser/"
     },
     "cordova": {
       "id": "cordova-plugin-default-browser",
