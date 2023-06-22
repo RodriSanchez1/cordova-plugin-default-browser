@@ -16,7 +16,7 @@ Parameters:
 
 * url: The URL to open in the default browser. Type: string. Required.
 
-NOTE: The URL must contain the protocol (e.g. http:// or https://). Otherwise an error will be thrown. This is a limitation of the underlying native implementation.
+NOTE: The URL must contain the protocol (e.g. http:// or https://). Otherwise an error will be thrown. This is for security reasons.
 
 
 ## Supported Platforms
