@@ -1,7 +1,7 @@
 {
     "name": "cordova-plugin-default-browser",
     "version": "0.0.0",
-    "main": "DefaultBrowser.js",
+    "main": "index.js",
     "cordova": {
       "serviceName": "CordovaPluginDefaultBrowser"
     }
